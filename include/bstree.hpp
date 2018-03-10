@@ -38,7 +38,7 @@ class Tree {
     }
   }
   Clear(Node *&SoTree) {
-    if (SoTree != nullptr)  //Пока не встретится пустое звено
+    if (SoTree != nullptr)  
     {
       Clear(SoTree->left);
       Clear(SoTree->right);

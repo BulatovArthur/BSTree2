@@ -1,5 +1,5 @@
 #include <iostream>
-#include "dom.hpp"
+#include "bstree.hpp"
 
 using namespace std;
 using namespace BSTree;
